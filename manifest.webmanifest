@@ -1,1 +1,21 @@
-{"name": "DM Field Projeto 24 Horas", "short_name": "DM Field 24H", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f3f5f8", "theme_color": "#101820", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
+{
+  "name": "DM Field 24H — Projeto 24 Horas",
+  "short_name": "DM Field 24H",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f5",
+  "theme_color": "#103e2d",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
