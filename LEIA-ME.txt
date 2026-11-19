@@ -1,1 +1,0 @@
-BAND TO GO - Versao completa. Extraia o ZIP e envie o index.html para a raiz do repositorio GitHub Pages, substituindo o arquivo antigo. No celular, abra o endereco HTTPS e autorize a localizacao. Distancias sao em linha reta. O historico salvo no navegador nao e transferido automaticamente.\n
